@@ -542,6 +542,10 @@ h2.explore-title-2 {
         flex-direction: column;
     }
 
+    .footer-bar .footer-lang .btn-lang-top {
+        margin-top: 20px;
+    }
+
 	.footer-links {
 	grid-template-columns: repeat(2, 1fr);
 	}
