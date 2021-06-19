@@ -538,6 +538,11 @@ h2.explore-title-2 {
 	grid-template-columns: repeat(3, 1fr);
 	}
 
+    .footer-bar .footer-lang {
+        flex-direction: column;
+        justify-content: center;
+    }
+
 	.footer-links {
 	grid-template-columns: repeat(2, 1fr);
 	}
